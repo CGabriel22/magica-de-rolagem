@@ -17,7 +17,6 @@ As seguintes e básicas tecnologias foram utilizadas no projeto:
 
 - HTML e CSS
 - JavaScript
-- JQuery
 
 ---
 Desenvolvido por Carlos Gabriel Leite Barros.
